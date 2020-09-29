@@ -1,5 +1,7 @@
 package com.catata.recyclerview.modelos;
-
+/*
+* Clase POJO que hace de modelo, será el tipo de datos de la lista
+* */
 public class Persona {
 
     String nombre;
